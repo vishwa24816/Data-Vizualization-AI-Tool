@@ -1,4 +1,4 @@
-# 📊 AI Data Visualization Agent
+# AI Data Visualization Tool
 A Streamlit application that acts as your personal data visualization expert, powered by LLMs. Simply upload your dataset and ask questions in natural language - the AI agent will analyze your data, generate appropriate visualizations, and provide insights through a combination of charts, statistics, and explanations.
 
 ## Features
@@ -27,10 +27,7 @@ Follow the steps below to set up and run the application:
 - Get a free E2B API Key here: https://e2b.dev/ ; https://e2b.dev/docs/legacy/getting-started/api-key
 
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd ai_agent_tutorials/ai_data_visualisation_agent
-   ```
+
 2. **Install the dependencies**
     ```bash
     pip install -r requirements.txt
